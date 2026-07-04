@@ -173,7 +173,7 @@ Professional interactive reports with
 
 The screenshot below is generated from an actual execution of this automation framework.
 
-![Allure Dashboard](img_1.png)
+![Allure Report](img_1.png)
 
 ---
 
