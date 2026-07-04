@@ -158,6 +158,8 @@ Run hundreds of tests simultaneously.
 
 ## ✔ Allure Reporting
 
+
+
 Professional interactive reports with
 
 - Test Steps
@@ -166,6 +168,14 @@ Professional interactive reports with
 - Execution Time
 - History
 - Categories
+
+## 📷 Allure Report Dashboard
+
+The screenshot below is generated from an actual execution of this automation framework.
+
+![Allure Dashboard](img_1.png)
+
+---
 
 ---
 
