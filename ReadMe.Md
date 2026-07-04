@@ -169,12 +169,6 @@ Professional interactive reports with
 - History
 - Categories
 
-## 📷 Allure Report Dashboard
-
-The screenshot below is generated from an actual execution of this automation framework.
-
-![Allure Report](img_1.png)
-
 ---
 
 ---
